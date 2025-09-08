@@ -1,9 +1,9 @@
 # Sistemas Computadores 
 <h3> Participantes </h3>
 <hf></hf>  
--Daniel Gerlin
--Gabriel Basso
--Lucca Bertini
+- *Daniel Gerlin
+- *Gabriel Basso
+- *Lucca Bertini
 <hf></hf>  
 <h3> Objetivo </h3>
 <hf></hf>  
