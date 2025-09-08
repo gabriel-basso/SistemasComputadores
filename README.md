@@ -1,17 +1,27 @@
-# Sistemas Computadores 
-<h3> Participantes </h3>
-<hf></hf>  
-- *Daniel Gerlin
-- *Gabriel Basso
-- *Lucca Bertini
-<hf></hf>  
-<h3> Objetivo </h3>
-<hf></hf>  
-Repositório elaborado a fim de complementar a nota da disciplina de Sistema de Compuatação 1.
-Este reúne a entrega dos exercícios nos computadores Ramses e Ahmes, conforme foi solicitado.
-O objetivo foi aplicar de maneira prática a lógica a programação em baixo nível.
-<h3> Acesso relatório (Google Docs) </h3>
+# 💻 Sistemas de Computadores
 
-<h3> Acesso relatório PDF </h3>
+Bem-vindo ao repositório oficial do trabalho da disciplina **Sistemas de Computação 1**!  
+Aqui você encontrará a entrega dos exercícios desenvolvidos nos computadores **Ramses** e **Ahmes**, conforme solicitado pela disciplina.
 
+---
 
+## 👨‍💻 Participantes
+
+- **Daniel Gerlin**
+- **Gabriel Basso**
+- **Lucca Bertini**
+
+---
+
+## 🎯 Objetivo
+
+Este repositório foi elaborado para complementar a nota da disciplina de **Sistemas de Computação 1**.  
+Nosso objetivo foi aplicar, de maneira prática, a lógica de programação em baixo nível, explorando conceitos fundamentais da arquitetura de computadores.
+
+---
+
+## 📄 Relatórios
+
+- [Acesso ao relatório (Google Docs)](https://docs.google.com/document/d/16H1d4N3nVLHHWmeO_-WNZyjiya6rr3HEGb6-vosmv2o/edit?usp=sharing)
+
+---
