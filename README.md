@@ -7,9 +7,9 @@ Aqui você encontrará a entrega dos exercícios desenvolvidos nos computadores 
 
 ## 👨‍💻 Participantes
 
-- **Daniel Gerlin**(HT3050106)
-- **Gabriel Basso**(HT3050696)
-- **Lucca Bertini**(HT3051498)
+- **Daniel Gerlin** (HT3050106)
+- **Gabriel Basso** (HT3050696)
+- **Lucca Bertini** (HT3051498)
 
 ---
 
