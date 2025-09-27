@@ -1,4 +1,4 @@
-# 💻 Sistemas de Computadores
+# 💻 Sistemas de Computadores - Ramses e Ahmes
 
 Bem-vindo ao repositório oficial do trabalho da disciplina **Sistemas de Computação 1**!  
 Aqui você encontrará a entrega dos exercícios desenvolvidos nos computadores **Ramses** e **Ahmes**, conforme solicitado pela disciplina.
